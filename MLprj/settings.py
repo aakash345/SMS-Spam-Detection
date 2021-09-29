@@ -25,7 +25,7 @@ SECRET_KEY = ')hl1s4y-lamz!y0_wjte@g=-n5amjs*uh$b10lz!-eahv786w0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','smsspamdetectionml.herokuapp.com']
 
 
 # Application definition
